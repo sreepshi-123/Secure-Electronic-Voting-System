@@ -145,11 +145,11 @@ The application follows a secure biometric verification workflow:
 ## 🚀 Future Enhancements
 
 * Blockchain-Based Vote Storage
-* OTP-Based Verification
+* Fingerprint Authentication 
 * Cloud Deployment
 * AI-Based Fraud Detection
 * Mobile Voting Support
-* Advanced Election Analytics
+* Large Scale National Election Support
 
 ---
 
