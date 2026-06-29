@@ -37,7 +37,6 @@ The Secure Electronic Voting System is a biometric-based digital voting platform
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
 * OpenCV
 * CNN (Convolutional Neural Network)
 * MTCNN
